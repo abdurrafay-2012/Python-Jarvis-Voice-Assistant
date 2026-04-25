@@ -1,7 +1,4 @@
 # Python-Jarvis-Voice-Assistant
-A simple Python-based Voice Assistant that can open websites, tell the time, and open system apps using voice commands.
-
-# Python Jarvis Voice Assistant
 
 A simple and efficient voice assistant built with Python to automate basic daily tasks. This project focuses on understanding Voice-to-Text and Text-to-Speech logic.
 
